@@ -1,0 +1,18 @@
+{
+    "kommentit": {
+        "searchChoice": "1=uimari, 2=masters",
+        "class": "sukupuoli: 99=kaikki",
+        "start_date": "päivämäärä, josta alkaen tilastoajat haetaan"
+    },
+    "nimilistaparametrit": {
+        "first_name": "",
+        "last_name": "",
+        "swimmer_club": "Helsingin Uimarit",
+        "searchChoice": "2",
+        "class": "99",
+        "is_active": "1"
+    },
+    "yhden_uimarin_parametrit": {
+        "start_date": "2023-01-01"
+    }
+}
